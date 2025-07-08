@@ -1,0 +1,17 @@
+A. Limpieza
+    1.- Fechas
+    2.- Nulos
+    3.- Col Row ID
+
+B. Ingeniería de Características
+    1.- Meses y Años para Col Fechas
+
+C. Distribución de los datos
+    1.- Ship Mode - CAT
+    4.- Segment - CAT
+    8.- Category - CAT
+    9.- Sub-Category - CAT
+
+    6.- City - CAT
+    7.- State - CAT
+    2.- Meses o Años de Fechas
