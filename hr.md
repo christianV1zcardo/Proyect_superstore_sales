@@ -28,9 +28,8 @@
   4. Ciudad con más Ingresos
   5. State con más Ingresos
   6. SubCategory con más Ingresos
-  7. Meses y Años con más Ingresos
-  8. Producto con más Ingresos
-  9. Cliente que más Ingresos ha generado
+  7. Producto con más Ingresos
+  8. Clientes que más Ingresos han generado
 ---
 ### b. Estacionalidad | Sales
   1. Cat x Meses y Años
