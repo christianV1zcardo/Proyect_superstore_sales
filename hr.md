@@ -31,18 +31,16 @@
   1. ~~Cat x Meses y Años~~
   2. ~~Segment x Meses y Años~~
   3. ~~Region x Meses y Años~~
-  4. Ship Mode x Meses y Años
 ---
 ### c. Ship Mode | C. Pedidos
-  1. Ship Mode x City
-  2. Ship Mode x Segment
-  3. Ship Mode x Region
-  4. Ship Mode x Cat
+  1. ~~Ship Mode x Meses~~
+  2. ~~Ship Mode x Segment~~
+  3. ~~Ship Mode x Region~~
+  4. ~~Ship Mode x Category~~
 ---
 ### d. Clientes
   1. ~~Top clientes por Ingresos~~
   2. ~~Top clientes por número de Pedidos~~
-  3. Segment x Cliente | N Pedidos ¿crosstab| porcentajes?
 ---
 ### e. Tiempos de Entrega
   1. Tiempo medio?
