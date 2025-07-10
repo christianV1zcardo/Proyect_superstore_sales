@@ -8,6 +8,7 @@
 
 1. Meses y Años para Col Fechas
 2. Conversión de Sales a Miles
+3. Delivery Days
 
 ## C. Principales Distribuciones
 1. ~~Ship Mode  CAT~~
@@ -43,6 +44,7 @@
   2. ~~Top clientes por número de Pedidos~~
 ---
 ### e. Tiempos de Entrega
-  1. Tiempo medio?
-  2. Tiempo por región
-  3. Relación entre Delivery Time y Customer Segment??
+  1. ~~Tiempo medio por meses~~
+  2. ~~Tiempo medio por región~~
+  3. ~~Tiempo medio por Segment~~
+  4. ~~Tiempo medio por Category~~
